@@ -1,3 +1,9 @@
+## v2.2.4 v1.7.3
+
+### Bug Fix
+
+-   request files FileBag
+
 ## v2.2.3 v1.7.2
 
 ### Bug Fix
